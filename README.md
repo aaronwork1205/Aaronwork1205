@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning at Gatech CoC.
 
-- 💞️ I’m looking to collaborate on Research on Machine learning.
+- 💞️ I’m looking to collaborate on Research about Machine learning.
 
 - 📫 mailto: aaronwork1205@outlook.com
 
