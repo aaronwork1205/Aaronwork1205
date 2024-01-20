@@ -11,13 +11,12 @@
 </div>
 
 
-
-<img src="https://media3.giphy.com/media/WoWm8YzFQJg5i/giphy.gif?cid=ecf05e47cxrmjc3e1gcth4d5agwtkuasaf6rua1gvh5pgpr1&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Animated GIF" style="position: absolute; width: 30%; top: 30%; left: 70%; transform: translate(-50%, -50%);">
+<img src="https://media3.giphy.com/media/WoWm8YzFQJg5i/giphy.gif?cid=ecf05e47cxrmjc3e1gcth4d5agwtkuasaf6rua1gvh5pgpr1&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Animated GIF" style="position: absolute; width: 30; top: 30; left: 70;">
 </img>
 
 </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaronwork1205" alt="aaronwork1205" /></a> </p> -->
+
 
 - 🌱 Currently based in **Atlanta, GA**.
 
@@ -26,6 +25,7 @@
 - 🫡 Me 24x7 on duty [here](mailto:wwang681@gatech.edu)
 
 - 🎮 Fun fact **10 yrs League Bronze player**;) .
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
