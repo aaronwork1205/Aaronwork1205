@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wenhao Wang</h1>
-<h3 align="center">A passionate AI Researcher/Full Stack Developer/League of Lengends Player</h3>
+<h3 align="center">Life is a great gamble. How much you wanna risk?</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaronwork1205&label=Profile%20views&color=0e75b6&style=flat" alt="aaronwork1205" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently based in Atlanta, GA **.**
 
-- 🫡 Me in 24x7 on duty [here](mailto:wwang681@gatech.edu)
+- 🫡 Me 24x7 on duty [here](mailto:wwang681@gatech.edu)
 
 - 🎮 Fun fact **Mastery 7 Shaco player ;)**
 
