@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently based in Atlanta, GA **.**
 
-- 📫 **wwang681@gatech.edu**
+- 📫 Potential collaboration [opportunities](wwang681@gatech.edu)
 
 - 📄 My Work, Projects [here](https://www.linkedin.com/in/wenhao-wang-aaron/)
 
