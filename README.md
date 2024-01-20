@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Wenhao Wang</h1>
 <h3 align="center">Life is a great gamble. How much you wanna risk?</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaronwork1205&label=Profile%20views&color=0e75b6&style=flat" alt="aaronwork1205" /> </p>
-![Static Badge](https://img.shields.io/badge/Georgia-Tech-orange?style=flat)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaronwork1205&label=Profile%20views&color=0e75b6&style=flat" alt="aaronwork1205" />
+<img alt="Static Badge" src="https://img.shields.io/badge/Georgia_Tech-orange">
+</p>
+
 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaronwork1205" alt="aaronwork1205" /></a> </p> -->
