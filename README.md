@@ -6,8 +6,9 @@
 <div align= "center">
  <img src="https://komarev.com/ghpvc/?username=aaronwork1205&label=Profile%20views&color=0e75b6&style=flat" alt="aaronwork1205" />
 <img alt="Static Badge" src="https://img.shields.io/badge/Open to-Work-orange">
-  <img alt="Static Badge" src="https://img.shields.io/badge/job-seeker-green">
-<img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode.com%2Fgraphql%3Fquery%3D%257B%2520matchedUser(username%253A%2520%2522aaron20001205%2522)%2520%257B%2520username%2520submitStats%253A%2520submitStatsGlobal%2520%257B%2520acSubmissionNum%2520%257B%2520difficulty%2520count%2520submissions%2520%257D%2520%257D%2520%257D%2520%257D&query=%24.data.matchedUser.submitStats.acSubmissionNum%5B0%5D.count&label=Leetcode%20Solved">
+
+<img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode.com%2Fgraphql%3Fquery%3D%257B%2520matchedUser(username%253A%2520%2522aaron20001205%2522)%2520%257B%2520username%2520submitStats%253A%2520submitStatsGlobal%2520%257B%2520acSubmissionNum%2520%257B%2520difficulty%2520count%2520submissions%2520%257D%2520%257D%2520%257D%2520%257D&query=%24.data.matchedUser.submitStats.acSubmissionNum%5B0%5D.count&label=Leetcode%20Solved&color=7f32a8">
+
 
 </div>
 
