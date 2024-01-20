@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Wenhao Wang</h1>
 <h3 align="center">Life is a great gamble. How much you wanna risk?</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaronwork1205&label=Profile%20views&color=0e75b6&style=flat" alt="aaronwork1205" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aaronwork1205&label=Profile%20views&color=0e75b6&style=flat" alt="aaronwork1205" />
 <img alt="Static Badge" src="https://img.shields.io/badge/Georgia-Tech-orange">
+  <img alt="Static Badge" src="https://img.shields.io/badge/job-seeker-green">
+
 </p>
 
 
