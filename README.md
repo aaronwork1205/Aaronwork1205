@@ -11,11 +11,13 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaronwork1205" alt="aaronwork1205" /></a> </p> -->
 
-- 🌱 I’m currently based in Atlanta, GA **.**
+- 🌱 Currently based in **Atlanta, GA**.
+
+- 💡 Passionate about **Machine Learning/Deep Learning** research, projects, and applications. 
 
 - 🫡 Me 24x7 on duty [here](mailto:wwang681@gatech.edu)
 
-- 🎮 Fun fact **10 yrs League Bronze player ;)**
+- 🎮 Fun fact **10 yrs League Bronze player**;) .
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
