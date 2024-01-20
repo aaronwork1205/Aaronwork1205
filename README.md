@@ -12,7 +12,8 @@
 
 <div align="center">
 
-<img src = "https://media3.giphy.com/media/WoWm8YzFQJg5i/giphy.gif?cid=ecf05e47cxrmjc3e1gcth4d5agwtkuasaf6rua1gvh5pgpr1&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = "30%">
+<img src="https://media3.giphy.com/media/WoWm8YzFQJg5i/giphy.gif?cid=ecf05e47cxrmjc3e1gcth4d5agwtkuasaf6rua1gvh5pgpr1&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Animated GIF" style="position: absolute; width: 30%; top: 30%; left: 70%; transform: translate(-50%, -50%);">
+
 </div>
 
 </p>
