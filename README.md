@@ -13,7 +13,7 @@
 
 - 🌱 Currently based in **Atlanta, GA**.
 
-- 💡 Passionate about **Machine Learning/Deep Learning** research, projects, and applications. 
+- 💡 Passionate about **ML/DL** research and projects. 
 
 - 🫡 Me 24x7 on duty [here](mailto:wwang681@gatech.edu)
 
