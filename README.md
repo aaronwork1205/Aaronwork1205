@@ -28,7 +28,7 @@
 
 
   <div style="width: 80%;">
-    <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aaronwork1205&show_icons=true&locale=en" width = "455"  alt="aaronwork1205" /></p>
+    <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aaronwork1205&show_icons=true&locale=en" width = "452"  alt="aaronwork1205" /></p>
   </div>
 
 
