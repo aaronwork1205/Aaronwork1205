@@ -23,7 +23,7 @@
 
 
   <div style="width: 100%;">
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronwork1205&show_icons=true&locale=en&layout=compact" width ="100%" height = "100%" alt="aaronwork1205" /></p>
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronwork1205&show_icons=true&locale=en&layout=compact"  alt="aaronwork1205" /></p>
   </div>
 
 
