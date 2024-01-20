@@ -9,7 +9,7 @@
 
 - 🫡 Me 24x7 on duty [here](mailto:wwang681@gatech.edu)
 
-- 🎮 Fun fact **Mastery 7 Shaco player ;)**
+- 🎮 Fun fact **10 yrs League player ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
