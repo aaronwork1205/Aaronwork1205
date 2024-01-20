@@ -23,12 +23,12 @@
 
 
   <div style="width: 80%;">
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronwork1205&show_icons=true&locale=en&layout=compact" width = "400" alt="aaronwork1205" /></p>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronwork1205&show_icons=true&locale=en&layout=compact" width = "350" alt="aaronwork1205" /></p>
   </div>
 
 
   <div style="width: 80%;">
-    <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aaronwork1205&show_icons=true&locale=en" width = "530"  alt="aaronwork1205" /></p>
+    <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aaronwork1205&show_icons=true&locale=en" width = "430"  alt="aaronwork1205" /></p>
   </div>
 
 
