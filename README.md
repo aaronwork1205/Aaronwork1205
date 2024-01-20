@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently based in Atlanta, GA **.**
 
-- 📫 How to reach me **wwang681@gatech.edu**
+- 📫 **wwang681@gatech.edu**
 
-- 📄 Know about my experiences [www.linkedin.com/in/wenhao-wang-aaron/](www.linkedin.com/in/wenhao-wang-aaron/)
+- 📄 My Work, Projects [here](https://www.linkedin.com/in/wenhao-wang-aaron/)
 
 - ⚡ Fun fact **Mastery 7 Shaco player ;)**
 
