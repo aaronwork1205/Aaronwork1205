@@ -51,7 +51,7 @@
 
 
   <div align ="center" style="width: 80%;">
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaronwork1205&" width ="1000" alt="aaronwork1205" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaronwork1205&show_icons=true&locale=en" width ="1000" alt="aaronwork1205" /></p>
   </div>
 
 
