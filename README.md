@@ -23,7 +23,7 @@
 - 💡 Passionate about **scalable backend**, **LLM applications**, and **automation**.
 - 🛠 Built and deployed systems using **React**, **Flask**, **Go**, **Docker/K8s**, and **ONNX**.
 - 📈 Contributed to real-world projects in **robotics**, **voice interaction**, and **GPU-based model serving**.
-- 📮 Reach me anytime at [wwang681@gatech.edu](mailto:wwang681@gatech.edu)
+- 📮 Reach me anytime at [aaron.wang888@hotmail.com](mailto:wwang681@gatech.edu)
 
 ---
 
@@ -53,9 +53,7 @@
 
 ### 🛠️ Languages and Tools
 
-<!-- 保留你原来的 icons 不变 -->
 
-<!-- 🔧 你的图标工具栏部分保留原样 -->
 
 ---
 
